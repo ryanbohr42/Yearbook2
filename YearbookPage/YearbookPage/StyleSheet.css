@@ -1,0 +1,23 @@
+﻿#container{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    background-image:url("DSC_0255.png");
+    background-size:cover;
+}
+}
+#first{
+    font-style: italic;
+}
+#text{
+    width: 75%;
+    height: 50%;
+    background-color: rgba(255, 255, 255, .5);
+    font-size: 12px;
+    word-spacing: -2px;
+}
+#block {
+    width: inherit;
+    height: inherit;
+    margin-top:20px;
+}
