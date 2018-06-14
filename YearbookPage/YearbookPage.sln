@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "YearbookPage", "YearbookPage\", "{73FDAAF7-0190-4D18-A2EF-1B0961F6E609}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61540"
+		Debug.AspNetCompiler.PhysicalPath = "YearbookPage\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61540\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61540"
+		Release.AspNetCompiler.PhysicalPath = "YearbookPage\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61540\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61540"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73FDAAF7-0190-4D18-A2EF-1B0961F6E609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73FDAAF7-0190-4D18-A2EF-1B0961F6E609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF731FE-F408-40AE-83A7-600E9A1ECFB2}
+	EndGlobalSection
+EndGlobal
